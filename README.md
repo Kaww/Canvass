@@ -4,4 +4,4 @@
 
 MacOS app in SwiftUI allowing to place and edit shapes in a canvas.
 
-![screenshot](./screenshot.png "Screenshot")
+![screenshot](./image.png "Image")
