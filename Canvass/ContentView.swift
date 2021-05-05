@@ -53,7 +53,7 @@ struct ContentView: View {
             .padding(.top, shape.y)
             .foregroundColor(shape.color)
             .shadow(
-                color: .black.opacity(0.4),
+                color: Color.black.opacity(0.4),
                 radius: 10,
                 x: 0.0,
                 y: 0.0
@@ -127,7 +127,7 @@ struct ShapeEditorBar: View {
                 Color.white
                     .opacity(0.8)
                     .shadow(
-                        color: .black.opacity(0.4),
+                        color: Color.black.opacity(0.4),
                         radius: 20,
                         x: 0.0,
                         y: 0.0
